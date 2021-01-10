@@ -11,7 +11,6 @@ A basic Ionic client web application which consumes the RestAPI Backend. [Covere
 ##endpoint for the final project
 http://udacityc2restapi-env.eba-impdn9bv.eu-central-1.elasticbeanstalk.com/
 
-
 ## Tasks
 
 ### Setup Node Environment
